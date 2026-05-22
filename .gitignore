@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+.next/
+out/
+dist/
+build/
+target/
+.gradle/
+.idea/
+.vscode/
+*.log
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
